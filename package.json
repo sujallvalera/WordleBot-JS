@@ -1,0 +1,16 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "Word guesser for wordle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sujallvalera",
+  "license": "ISC",
+  "dependencies": {
+    "html2json": "^1.0.2",
+    "puppeteer": "^19.8.0"
+  }
+}
